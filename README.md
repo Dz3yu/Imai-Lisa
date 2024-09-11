@@ -1,12 +1,5 @@
 # Imai-Lisa
 
-## How to start
+基于[Nonebot2](https://nonebot.dev/)与[NoneBot-Adapter-Satori](https://github.com/nonebot/adapter-satori)实现的机器人项目，根据BanG Dream！中Roselia乐队的贝斯手今井リサ命名。
 
-1. generate project using `nb create` .
-2. create your plugin using `nb plugin create` .
-3. writing your plugins under `imai_lisa/plugins` folder.
-4. run your bot using `nb run --reload` .
-
-## Documentation
-
-See [Docs](https://nonebot.dev/)
+# 绝赞开发中
