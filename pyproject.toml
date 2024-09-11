@@ -1,0 +1,14 @@
+[project]
+name = "Imai-Lisa"
+version = "0.1.0"
+description = "Imai-Lisa"
+readme = "README.md"
+requires-python = ">=3.8, <4.0"
+
+[tool.nonebot]
+adapters = [
+    { name = "Satori", module_name = "nonebot.adapters.satori" }
+]
+plugins = []
+plugin_dirs = ["imai_lisa/plugins"]
+builtin_plugins = ["echo", "single_session"]
